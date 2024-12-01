@@ -1,0 +1,1 @@
+# gameboy-blargg-logs
